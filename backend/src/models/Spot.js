@@ -19,4 +19,8 @@ SpotSchema.virtual('thumbnail_url').get(function () {
     return `http://localhost:3333/files/${this.thumbnail}`;
 });
 
+SpotSchema.virtual('thumbnail_url_mobile').get(function () {
+    return `http://192.168.1.100:3333/files/${this.thumbnail}`;
+});
+
 module.exports = model('Spot', SpotSchema);
