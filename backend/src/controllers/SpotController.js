@@ -10,10 +10,6 @@ module.exports = {
         return res.json(spots)
     },
 
-    async show(req, res) {
-
-    },
-
     async store(req, res) {
         const { filename } = req.file;
         const { company, techs, price } = req.body;
@@ -34,12 +30,4 @@ module.exports = {
 
         return res.json(spot);
     },
-
-    async update(req, res) {
-
-    },
-
-    async destroy(req, res) {
-
-    }
 };
