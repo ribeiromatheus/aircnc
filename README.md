@@ -13,6 +13,7 @@ It is a Web and Mobile application where anyone who has an email can create spot
 - [axios](https://github.com/axios/axios)
 - [socket.io](https://github.com/socketio/socket.io)
 - [socket.io-client](https://github.com/socketio/socket.io-client)
+- [MongoDB (mongoose)](https://github.com/Automattic/mongoose)
 
 ## Requirements
 - [Node.js](https://nodejs.org)
