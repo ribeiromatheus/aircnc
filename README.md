@@ -21,4 +21,6 @@ It is a Web and Mobile application where anyone who has an email can create spot
 - Python 2
 
 ## Get started
-After cloning run `yarn install` or `npm install`
+At first, clone the repo by running `git clone https://github.com/ribeiromatheus/aircnc.git` on your favorite terminal.
+
+After cloning run `yarn install` or `npm install` on **backend**, **frontend** and **aircnc** folder.
