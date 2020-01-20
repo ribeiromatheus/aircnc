@@ -3,7 +3,7 @@
 
 It is a Web and Mobile application where anyone who has an email can create spots (web application only) and can request a booking in any spot (mobile application only), so this request can be accepted or rejected. (web application only).
 
-## Tecnologies
+## Technologies
 - Node.js
 - React
 - React Native with [Expo](https://expo.io/learn)
